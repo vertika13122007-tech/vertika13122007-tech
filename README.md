@@ -1,6 +1,3 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A970FF&center=true&width=700&height=60&lines=Computer+Science+Student+;Aspiring+Data+Scientist;Machine+Learning+Enthusiast+Backend+Developer+%7C+FastAPI+%7C+Node.js;Building+AI+Projects)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Vertika</h1>
 
 <h3 align="center">
