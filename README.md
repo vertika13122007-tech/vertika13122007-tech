@@ -113,8 +113,17 @@ Building AI Projects | Solving DSA | Learning Every Day
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vertika13122007-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vertika13122007-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertika13122007-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vertika13122007-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vertika13122007-tech&theme=tokyonight&hide_border=true"/>
 
 </p>
